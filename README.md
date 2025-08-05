@@ -1,15 +1,7 @@
 # CALCULATOR
 # 🧮 Python GUI Calculator
 
-A simple and elegant calculator built using Python's `tkinter` library. It supports basic arithmetic operations with a user-friendly graphical interface.
-
----
-
-## 📸 Screenshot
-
-![Calculator Screenshot](https://via.placeholder.com/300x400.png?text=Calculator+UI)
-
----
+A simple and elegant calculator built using Python's `tkinter` library. It supports basic arithmetic operations with a user-friendly graphical interface
 
 ## 🚀 Features
 
@@ -19,14 +11,11 @@ A simple and elegant calculator built using Python's `tkinter` library. It suppo
 - Error handling for invalid expressions
 - Easy to customize
 
----
-
 ## 🛠️ Requirements
 
 - Python 3.x (tested on Python 3.8+)
 - No external libraries needed — uses built-in `tkinter`
 
----
 
 ## 📦 Installation & Running
 
